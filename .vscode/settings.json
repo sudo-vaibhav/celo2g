@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e13c7b0d-1c8f-45e1-8bcc-7292cbcb4738/resourceGroups/celo2g/providers/Microsoft.Web/sites/celo2g",
+    "appService.deploySubpath": "backend"
+}

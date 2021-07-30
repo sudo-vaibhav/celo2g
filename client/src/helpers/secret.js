@@ -1,0 +1,2 @@
+export const CELO_PRIVATE_KEY =
+  "34e4c0f16a005fa237dbdddd713bd7f18f23e64dad05036d9fe53396c155989e";
